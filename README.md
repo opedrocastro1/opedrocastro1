@@ -2,14 +2,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opedrocastro1/opedrocastro1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opedrocastro1/opedrocastro1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/opedrocastro1/opedrocastro1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <p align="left">Estudante de Engenharia da Computação na PUC Minas, com interesse em programação, inteligência artificial e desenvolvimento de software.</p>
 
 ###
